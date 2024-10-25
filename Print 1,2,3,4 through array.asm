@@ -1,4 +1,4 @@
- :Program to print 1,2,3,4
+;Program to print 1,2,3,4
 .model small          
 .stack 100h
 .data 
